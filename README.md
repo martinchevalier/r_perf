@@ -1,6 +1,5 @@
 # README
 
-------------
 
 Ce dépôt contient le code source de la formation R perfectionnement donnée à l'Insee et en SSM à partir de 2016. Les versions compilées de ces supports sont disponibles à l'adresse [t.slmc.fr/perf](http://t.slmc.fr/perf).
 
